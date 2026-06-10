@@ -1,0 +1,109 @@
+= Sven Malte Wehrend
+:doctype: article
+:icons: font
+:icon-set: fas
+:pdf-themesdir: .
+:toc: false
+:nofooter:
+
+****
+image::wehren_edit_2020.jpg[width=100]
+icon:map-marker[] Eythstrasse 20, 12105 Berlin, Germany +
+icon:mobile[] 0176 215 86 919 +
+icon:envelope[] sven.wehrend[at]gmail.com +
+icon:linkedin[] https://www.linkedin.com/in/sven-wehrend-a00422149 +
+icon:globe[] https://wehrend.github.io/portfolio +
+*Born:* Nov. 21, 1987
+****
+
+== Work Experience
+
+[cols="20%,80%", frame=none, grid=none]
+|===
+| March 2023 – present
+| *Software Developer* — Weiterbildung / Advanced Training Frontend, DevKarriere.de
+
+| June 2023 – Feb. 2026
+| *Software Developer* — Odoo Developer, tec connect
+
+| Sep. 2019 – June 2023
+| *Software Developer* — Development of custom modules for the company's ERP system (OpenERP/Odoo), eemagine
+
+| Dec. 2017 – Dec. 2018
+| *Software Developer* — Development of a web-based accounting software, Content Licence Agency (CLA)
+
+| June 2016 – Sep. 2017
+| *Student Assistant* — Development of VR experiments based on Unity3D/C#, TU Berlin, Biological Psychology and Neuroergonomics (BPN)
+
+| April 2013 – June 2013
+| *Internship* — Programming of a photostability measurement setup in LabView, Bundesanstalt für Materialforschung und -prüfung (BAM, 1.10 Biophotonics)
+|===
+
+== Education
+
+[cols="20%,80%", frame=none, grid=none]
+|===
+| Oct. 2013 – Oct. 2018
+| *Technische Informatik (MSc.)* — TU Berlin +
+Grade: 2.7 +
+_Master Thesis:_ "Piloting of a Situational Awareness Framework and Adaption of an EEG-Processing Pipeline" +
+Supervisor: Prof. Dr. Klaus Gramann — Date: September 28, 2018 — Grade: 3.3
+
+| Oct. 2008 – Sep. 2013
+| *Computer Engineering (B.Eng.)* — HTW Berlin +
+Grade: 2.3 +
+_Bachelor Thesis:_ "Implementierung eines neuronalen Netzes in Hardware" +
+Supervisor: Dipl.-Ing. Gunnar Schoel — Date: September 23, 2013 — Grade: 2.3
+
+| Sep. 2007 – June 2008
+| *University of Applied Sciences Entrance Qualification* — FOS, focus on electrical engineering, OSZ KIM
+
+| Sep. 2004 – Aug. 2007
+| *Dual Education System* — Event Technician, OSZ KIM Berlin and Media Academy GmbH
+
+| Aug. 2000 – Sep. 2004
+| *Comprehensive School* — Gustav-Heinemann-Oberschule, Secondary school diploma
+|===
+
+== Languages
+
+[cols="25%,75%", frame=none, grid=none]
+|===
+| German  | Mother tongue
+| English | Fluent — Ger B2
+|===
+
+== Qualifications & Technical Skills
+
+=== Common
+
+[cols="25%,75%", frame=none, grid=none]
+|===
+| Operating Systems | Linux (Debian-based) • Windows 10
+| Tools             | PyCharm • Microsoft VS Code • PostgreSQL • Docker
+|===
+
+=== Programming Languages
+
+[cols="25%,75%", frame=none, grid=none]
+|===
+| Intermediate | Python
+| Intermediate | SQL
+| Intermediate | C#
+| Beginner     | C/C++
+|===
+
+== Soft Skills
+
+* Intellectual curiosity
+* Creative and systemic thinking
+
+== Further Interests
+
+Psychology • Sustainability
+
+---
+
+_Berlin, 1. June 2026_
+
+image::signature_scan2_edit.png[width=250]
