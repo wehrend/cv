@@ -24,7 +24,9 @@ jobs:
 
       - name: Render AsciiDoc to HTML
         run: |
+          mkdir -p public
           asciidoctor cv_sven_wehrend.adoc -o public/index.html
+          cp *.jpg *.png public/ 2>/dev/null || true
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
