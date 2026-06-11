@@ -85,13 +85,11 @@ Supervisor: Dipl.-Ing. Gunnar Schoel — Date: September 23, 2013 — Grade: 2.3
 
 === Programming Languages
 
-[cols="25%,75%", frame=none, grid=none]
-|===
-| Intermediate | Python
-| Intermediate | SQL
-| Intermediate | C#
-| Beginner     | C/C++
-|===
+* Python
+* HTML, CSS, JS
+* SQL
+* C#
+* C/C++
 
 == Soft Skills
 
