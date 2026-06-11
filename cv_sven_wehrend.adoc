@@ -80,7 +80,7 @@ Supervisor: Dipl.-Ing. Gunnar Schoel — Date: September 23, 2013 — Grade: 2.3
 [cols="25%,75%", frame=none, grid=none]
 |===
 | Operating Systems | Linux (Debian-based) • Windows 10
-| Tools             | PyCharm • Microsoft VS Code • PostgreSQL • Docker
+| Tools             | PyCharm • Microsoft Code • PostgreSQL • Docker • Asciidoctor • Hugo
 |===
 
 === Programming Languages
