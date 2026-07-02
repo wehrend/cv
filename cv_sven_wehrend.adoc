@@ -24,15 +24,18 @@ icon:globe[] https://wehrend.github.io/portfolio +
 
 | June 2023 – Feb. 2026
 | *Software Developer* — Odoo Developer, tec connect
+ Creation and administration of custom specific modules for Odoo versions 13 - 19
 
 | Sep. 2019 – June 2023
 | *Software Developer* — Development of custom modules for the company's ERP system (OpenERP/Odoo), eemagine
+ Creation and administration of custom specific modules for Odoo version 12
 
 | Dec. 2017 – Dec. 2018
 | *Software Developer* — Development of a web-based accounting software, Content Licence Agency (CLA)
 
 | June 2016 – Sep. 2017
 | *Student Assistant* — Development of VR experiments based on Unity3D/C#, TU Berlin, Biological Psychology and Neuroergonomics (BPN)
+ Creation of the SAMOBI project (Situational Awareness Mobile) based on Unity and C#
 
 | April 2013 – June 2013
 | *Internship* — Programming of a photostability measurement setup in LabView, Bundesanstalt für Materialforschung und -prüfung (BAM, 1.10 Biophotonics)
@@ -104,6 +107,6 @@ Psychology • Sustainability
 
 ---
 
-_Berlin, 11. June 2026_
+_Berlin, 2. Juli 2026_
 
 image::signature_scan2_edit.png[width=250]
