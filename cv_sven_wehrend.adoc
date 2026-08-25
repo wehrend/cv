@@ -3,18 +3,18 @@
 :icons: font
 :icon-set: fas
 :pdf-themesdir: .
-:toc: false
 :nofooter:
 
-****
-image::wehren_edit_2020.jpg[width=100]
-icon:map-marker[] Eythstrasse 20, 12105 Berlin, Germany +
+[cols="20%a,80%a", frame=none, grid=none]
+|===
+| image::wehren_edit_2020.jpg[width=100]
+| icon:map-marker[] Eythstrasse 20, 12105 Berlin, Germany +
 icon:mobile[] 0176 215 86 919 +
 icon:envelope[] sven.wehrend[at]gmail.com +
 icon:linkedin[set=fab] https://www.linkedin.com/in/sven-wehrend-a00422149 +
 icon:globe[] https://wehrend.github.io/portfolio +
 *Born:* Nov. 21, 1987
-****
+|===
 
 == Work Experience
 
