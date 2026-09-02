@@ -37,8 +37,6 @@ icon:globe[] https://wehrend.github.io/portfolio +
 | *Student Assistant* — Development of VR experiments based on Unity3D/C#, TU Berlin, Biological Psychology and Neuroergonomics (BPN)
  Creation of the SAMOBI project (Situational Awareness Mobile) based on Unity and C#
 
-| April 2013 – June 2013
-| *Internship* — Programming of a photostability measurement setup in LabView, Bundesanstalt für Materialforschung und -prüfung (BAM, 1.10 Biophotonics)
 |===
 
 == Education
@@ -61,14 +59,6 @@ Grade: 2.3 +
 _Bachelor Thesis:_ "Implementierung eines neuronalen Netzes in Hardware" +
 Supervisor: Dipl.-Ing. Gunnar Schoel — Date: September 23, 2013 — Grade: 2.3
 
-| Sep. 2007 – June 2008
-| *University of Applied Sciences Entrance Qualification* — FOS, focus on electrical engineering, OSZ KIM
-
-| Sep. 2004 – Aug. 2007
-| *Dual Education System* — Event Technician, OSZ KIM Berlin and Media Academy GmbH
-
-| Aug. 2000 – Sep. 2004
-| *Comprehensive School* — Gustav-Heinemann-Oberschule, Secondary school diploma
 |===
 
 == Languages
@@ -91,12 +81,21 @@ Supervisor: Dipl.-Ing. Gunnar Schoel — Date: September 23, 2013 — Grade: 2.3
 
 === Programming Languages
 
-* Python
-* HTML, CSS, JS
-* SQL
-* C#
-* Matlab
-* C/C++
+* Python, SQL, C#
+* React, TypeScript, HTML, CSS, JavaScript
+
+== Completed Projects
+
+[cols="20%,80%", frame=none, grid=none]
+|===
+| 2026
+| *Modular Synthesizer* — Browser-based modular synthesizer (React, TypeScript, Tone.js, AudioWorklet) +
+Final project for the Frontend Advanced Training; physically modeled filter/VCO modules, Supabase-backed patch storage +
+https://wehrend.github.io/modular-synth
+
+| 2025
+| *Betriebswirtschaftliche Auswertung (BWA)* — Implementation of an Odoo based BWA module (Python, PostgreSQL, Odoo 19) as part of the job at Tec Connect 
+|===
 
 == Soft Skills
 
@@ -109,6 +108,6 @@ Psychology • Sustainability •  Synthesizer
 
 ---
 
-_Berlin, 2. Juli 2026_
+_Berlin, 3. September 2026_
 
 image::signature_scan2_edit.png[width=250]
